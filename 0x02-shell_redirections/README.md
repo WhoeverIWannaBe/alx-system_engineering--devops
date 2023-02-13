@@ -3,3 +3,5 @@
 1-Confused smiley used to to display "(Oo)"
 
 2-hellofile : Display the contents of /etc/passwd
+
+3-twofiles : Display the contents of /etc/passwd and /etc/hosts
