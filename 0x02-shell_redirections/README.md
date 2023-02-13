@@ -7,3 +7,5 @@
 3-twofiles : Display the contents of /etc/passwd and /etc/hosts
 
 4-lastlines : Displays the last 10 lines of file /etc/passwd
+
+5-firstlines : Displays the first 10 lines of file /etc/passwd
