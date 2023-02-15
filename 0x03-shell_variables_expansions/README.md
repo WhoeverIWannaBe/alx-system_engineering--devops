@@ -1,8 +1,8 @@
 0-alias: Creates with the name "ls" and the value "rm *"
 
-1
+1-hello_you : Prints a hello message to the User
 
-2
+2-path : Adds directory '/action' to our path
 
 3
 
