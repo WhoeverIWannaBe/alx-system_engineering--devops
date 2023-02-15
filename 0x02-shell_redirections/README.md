@@ -15,3 +15,7 @@
 7-file : Create a named \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text "Best school" and ending with a new line
 
 8-cwd_state: Prints the results of command " ls -la" in newly created or overwritten file ls_cwd_content
+
+9-duplicate_last_line : Duplicates the last line of the file "iacta"
+
+
