@@ -22,7 +22,7 @@
 
 11-directories: Lists all direcctoris and subdirectories in current directory
 
-12-
+12-newest_files : Displays 10 newest files sorted from newest to oldest
 
 13-
 
