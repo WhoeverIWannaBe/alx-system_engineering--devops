@@ -18,4 +18,4 @@
 
 9-duplicate_last_line : Duplicates the last line of the file "iacta"
 
-
+10-no_more_js: Finds all files with the .js file extension in the working directory and its subfolders and deletes them
