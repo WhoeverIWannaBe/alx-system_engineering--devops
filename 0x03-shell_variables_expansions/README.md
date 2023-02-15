@@ -4,7 +4,7 @@
 
 2-path : Adds directory '/action' to our path
 
-3
+3-paths : Counts the number of directories in the path
 
 4
 
