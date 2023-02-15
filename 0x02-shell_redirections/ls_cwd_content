@@ -1,13 +1,18 @@
--rwxrwxrwx 1 root root  35 Feb 13 14:52 0-hello_world
--rwxrwxrwx 1 root root  28 Feb 13 15:17 1-confused_smiley
--rwxrwxrwx 1 root root  28 Feb 13 15:20 2-hellofile
--rwxrwxrwx 1 root root  39 Feb 13 15:24 3-twofiles
--rwxrwxrwx 1 root root  35 Feb 13 15:33 4-lastlines
--rwxrwxrwx 1 root root  35 Feb 13 15:36 5-firstlines
--rwxrwxrwx 1 root root  37 Feb 14 08:51 6-third_line
--rwxrwxrwx 1 root root  95 Feb 14 23:47 7-file
--rwxrwxrwx 1 root root  39 Feb 15 00:04 8-cwd_state
--rw-r--r-- 1 root root  13 Feb 14 23:45 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
--rw-r--r-- 1 root root 756 Feb 14 08:51 iacta
--rw-r--r-- 1 root root   0 Feb 15 00:05 ls_cwd_content
--rw-r--r-- 1 root root 541 Feb 13 16:14 README.md
+total 72
+drwxr-xr-x 2 root root   323 Feb 15 00:36 .
+drwxr-xr-x 6 root root   104 Feb 13 10:41 ..
+-rwxrwxrwx 1 root root    35 Feb 13 14:52 0-hello_world
+-rw------- 1 root root 12288 Feb 13 10:43 .0-hello_world.swp
+-rwxrwxrwx 1 root root    28 Feb 13 15:17 1-confused_smiley
+-rwxrwxrwx 1 root root    28 Feb 13 15:20 2-hellofile
+-rwxrwxrwx 1 root root    39 Feb 13 15:24 3-twofiles
+-rwxrwxrwx 1 root root    35 Feb 13 15:33 4-lastlines
+-rwxrwxrwx 1 root root    35 Feb 13 15:36 5-firstlines
+-rwxrwxrwx 1 root root    37 Feb 14 08:51 6-third_line
+-rwxrwxrwx 1 root root    95 Feb 14 23:47 7-file
+-rwxrwxrwx 1 root root    38 Feb 15 00:34 8-cwd_state
+-rw-r--r-- 1 root root    13 Feb 14 23:45 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-r--r-- 1 root root   756 Feb 14 08:51 iacta
+-rw-r--r-- 1 root root 12288 Feb 13 16:26 .iacta.swp
+-rw-r--r-- 1 root root     0 Feb 15 00:36 ls_cwd_content
+-rw-r--r-- 1 root root   541 Feb 13 16:14 README.md
